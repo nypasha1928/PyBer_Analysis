@@ -13,3 +13,4 @@ Resources
 Discussion
 The PyBer Summary DataFrame provides an overview comparison of PyBer's ridesharing services in three types of cities: rural, surburban, and urban cities. Listed below there is a  bubble chart that show cases the average fare versus the total number of rides with bubble size based on the average number pf drivers for each city type : Urban, Suburban and Rural .
 
+https://github.com/nypasha1928/PyBer_Analysis/blob/main/analysis/Fig1.png
