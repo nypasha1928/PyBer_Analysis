@@ -26,3 +26,9 @@ https://github.com/nypasha1928/PyBer_Analysis/blob/main/analysis/Fig2.png
 Given that there is a greater usage of PyBer in urban cities, the total fares are consequently also higher than suburban and rural cities. PyBer transactions in Urban cities totaled the highest whereas transactions in Suburban cities and rural cities followed respectively.
 The figure below demonstrates where the majority of PyBer's revenue occurred during this time period: urban cities.
 
+https://github.com/nypasha1928/PyBer_Analysis/blob/main/analysis/Fig5.png
+
+In terms of costs, it appears that riders in rural cities pay on average almost $10 more for PyBer than riders in urban cities. The average fare per ride is about $35 in rural cities whereas the average fare per ride is about $25 in urban cities. Suburban cities' average fare per ride falls just in between - at about $31. While it may not be good news for riders in rural cities, it is a better market for drivers in this type of city. The average fare per driver is about $55 in rural cities, whereas the average fare per driver is about $17 in urban cities. Suburban cities' average fare per driver is about $40.
+
+
+
