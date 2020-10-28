@@ -1,16 +1,17 @@
-PyBer  Analysis
+PyBer ANALYSIS .
 
-Project Overview
+PROJECT OVERVIEW :
 
 Analyze and visualize ride-sharing data using the power of Python, Pandas, and Matplotlib.
 We've been given access to the company's complete recordset of rides. This contains information about every active driver and historic ride, including details like city, driver count, individual fares, and city type.
 
-Resources
+RESOURCES :
 
-•	Data Source: city data.csv , ride data.csv
-•	Software: Anaconda , jupyter .
+Data Source: city data.csv , ride data.csv
+Software: Anaconda , jupyter .
 
-Discussion
+DISCUSSION :
+
 The PyBer Summary DataFrame provides an overview comparison of PyBer's ridesharing services in three types of cities: rural, surburban, and urban cities. Listed below there is a  bubble chart that show cases the average fare versus the total number of rides with bubble size based on the average number pf drivers for each city type : Urban, Suburban and Rural .
 
 https://github.com/nypasha1928/PyBer_Analysis/blob/main/analysis/Fig1.png
@@ -37,3 +38,11 @@ The multiple-line chart "Total Fare by City Type" further supports the PyBer Sum
 https://github.com/nypasha1928/PyBer_Analysis/blob/main/analysis/Pyber_Challenge.png
 
 
+INFERENCE:
+
+There is a larger use of PyBer ridesharing in urban cities.
+There are more drivers in urban cities than rural cities.
+As a result, the majority of PyBer's revenue occurs in urban cities.
+On the other hand, the costs for using PyBer is greater among riders in rural cities than urban cities. 
+Drivers in rural cities are earning more than drivers in urban cities. 
+Overall, PyBer ridersharing services significantly differs in rural, suruban, and urban cities given the number of rides, drivers, and fares. Data supports that there is higher usage of PyBer ridesharing services in urban cities.
