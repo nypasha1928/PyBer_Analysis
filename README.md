@@ -17,3 +17,5 @@ https://github.com/nypasha1928/PyBer_Analysis/blob/main/analysis/Fig1.png
 
 The summary demonstrates that there is a larger demand for PyBer among riders in urban cities compared to suburban and rural cities. Between January 2019 and May 2019, there were 1,625 rides in urban cities, 625 rides in suburban cities, and 125 rides in rural cities. The figure below highlights how rides in Urban cities contributed the most to PyBer's overall rides during this five-month period.
 
+https://github.com/nypasha1928/PyBer_Analysis/blob/main/analysis/Fig6.png
+
