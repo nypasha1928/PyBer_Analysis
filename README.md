@@ -34,6 +34,6 @@ https://github.com/nypasha1928/PyBer_Analysis/blob/main/analysis/Pyber_Challenge
 
 The multiple-line chart "Total Fare by City Type" further supports the PyBer Summary DataFrame by providing trends of total fares in rural, suburban, and urban cities between January 2019 and April 2019. The yellow trend shows how fares in urban cities totaled from around $1,600 to $2,300 from beginning to end during this five-month period. In contrast, the blue trend shows how fares in rural cities totaled around $300 from beginning to end during the same time period. The orange trend shows how the total fares in suruban cities fall in between urban and rural cities: around $700 to $1,300 from beginning to end during this time. The chart further demonstrates similar peak times in all these types of cities. 
 
-
+https://github.com/nypasha1928/PyBer_Analysis/blob/main/analysis/Pyber_Challenge.png
 
 
