@@ -20,3 +20,9 @@ The summary demonstrates that there is a larger demand for PyBer among riders in
 https://github.com/nypasha1928/PyBer_Analysis/blob/main/analysis/Fig6.png
 
 Creating a box-and-whisker plot (figure7 below) showed us that there is one outlier in the urban ride count data ( 39 ). Also, the average number of rides in the rural cities is about 4- and 3.5-times lower per city than the urban and suburban cities, respectively.
+
+https://github.com/nypasha1928/PyBer_Analysis/blob/main/analysis/Fig2.png
+
+Given that there is a greater usage of PyBer in urban cities, the total fares are consequently also higher than suburban and rural cities. PyBer transactions in Urban cities totaled the highest whereas transactions in Suburban cities and rural cities followed respectively.
+The figure below demonstrates where the majority of PyBer's revenue occurred during this time period: urban cities.
+
